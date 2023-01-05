@@ -1,6 +1,6 @@
 {
   "name": "steam-fork",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lets you interface with Steam without running an actual Steam client",
   "license": "MIT",
   "author": "Vlad Poshvaniuk <vladlovedance@gmail.com>",
